@@ -21,7 +21,7 @@ public class TestConnect : MonoBehaviourPunCallbacks
     {
         Debug.Log("connected to Photon",this);
         Debug.Log(PhotonNetwork.LocalPlayer.NickName,this);
-        if (!PhotonNetwork.InLobby)
+        //if (!PhotonNetwork.InLobby)
             PhotonNetwork.JoinLobby();
     }
 

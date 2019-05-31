@@ -15,7 +15,7 @@ public static T Instance
                 T[] resaults = Resources.FindObjectsOfTypeAll<T>();
                 if (resaults.Length == 0)
                 {
-                    Debug.LogError("SingletonSCriptableObject -> resault leangth is 0 for type "+ typeof(T).ToString() + ".");
+                    Debug.LogError("SingletonSCriptableObject -> resault length is 0 for type "+ typeof(T).ToString() + ".");
                     return null;
                 }
                 if (resaults.Length > 1)

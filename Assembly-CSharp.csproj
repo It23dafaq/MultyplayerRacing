@@ -174,7 +174,10 @@
     <Compile Include="Assets\Scripts\Managers\GameSettings.cs" />
     <Compile Include="Assets\Scripts\Managers\MasterManager.cs" />
     <Compile Include="Assets\Scripts\Managers\ScriptableObjectSingleton.cs" />
+    <Compile Include="Assets\Scripts\SingletonReference.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\CreateRoomMenu.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\Roomlisting.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\RoomlistingMenu.cs" />
     <Compile Include="Assets\TestConnect.cs" />
     <None Include="Assets\Photon\PhotonUnityNetworking\link.xml" />
     <None Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Kenney Assets\Copyrights.txt" />
