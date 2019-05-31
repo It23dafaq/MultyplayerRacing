@@ -175,7 +175,10 @@
     <Compile Include="Assets\Scripts\Managers\MasterManager.cs" />
     <Compile Include="Assets\Scripts\Managers\ScriptableObjectSingleton.cs" />
     <Compile Include="Assets\Scripts\SingletonReference.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\CreateOrJoinRooms.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\CreateRoomMenu.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\CurrentRoom.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\RoomCanvases.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\Roomlisting.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\RoomlistingMenu.cs" />
     <Compile Include="Assets\TestConnect.cs" />

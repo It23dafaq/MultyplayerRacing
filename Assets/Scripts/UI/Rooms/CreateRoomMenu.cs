@@ -10,6 +10,12 @@ public class CreateRoomMenu : MonoBehaviourPunCallbacks
     [SerializeField]
     private Text _roomName;
 
+    private RoomCanvases _roomsCanvases;
+
+    public void FirstInitialize(RoomCanvases canvases)
+    {
+        _roomsCanvases = canvases;
+    }
 
     public void Onclick_CreateRoom()
     {
@@ -27,6 +33,7 @@ public class CreateRoomMenu : MonoBehaviourPunCallbacks
     public override void OnCreatedRoom()
     {
         Debug.Log("created room succefully.", this);
+        _roomsCanvases.CurrentRooms.Show();
     }
 
     public override void OnCreateRoomFailed(short returnCode, string message)
