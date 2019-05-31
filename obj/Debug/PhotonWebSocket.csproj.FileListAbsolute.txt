@@ -209,3 +209,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonWebSocket.csproj.CoreCompileInputs.cac
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonWebSocket.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonWebSocket.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonWebSocket.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll

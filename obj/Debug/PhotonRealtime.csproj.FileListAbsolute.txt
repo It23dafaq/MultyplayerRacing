@@ -210,3 +210,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonRealtime.csproj.CoreCompileInputs.cach
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonRealtime.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonRealtime.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonRealtime.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll

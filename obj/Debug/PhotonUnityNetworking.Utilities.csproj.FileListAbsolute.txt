@@ -197,7 +197,6 @@ D:\UnityLastV\MultiRacing\Temp\bin\Debug\Unity.SerializationLogic.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\Unity.DataContract.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\ExCSS.Unity.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
-D:\UnityLastV\MultiRacing\Temp\bin\Debug\Boo.Lang.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\Unity.IvyParser.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
 D:\UnityLastV\MultiRacing\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
@@ -212,3 +211,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.csproj.CoreC
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll

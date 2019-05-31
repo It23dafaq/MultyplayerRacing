@@ -9,7 +9,7 @@ public class TestConnect : MonoBehaviourPunCallbacks
     // Start is called before the first frame update
     void Start()
     {
-        print("connecting to server");
+        Debug.Log("connecting to server");
         PhotonNetwork.NickName = MasterManager.GameSettings.NickName;
         PhotonNetwork.GameVersion = MasterManager.GameSettings.GameVersion;
         PhotonNetwork.ConnectUsingSettings();
@@ -19,13 +19,15 @@ public class TestConnect : MonoBehaviourPunCallbacks
     }
     public override void OnConnectedToMaster()
     {
-        print("connected to master");
-        print(PhotonNetwork.LocalPlayer.NickName);
+        Debug.Log("connected to Photon",this);
+        Debug.Log(PhotonNetwork.LocalPlayer.NickName,this);
+        if (!PhotonNetwork.InLobby)
+            PhotonNetwork.JoinLobby();
     }
 
     public override void OnDisconnected(DisconnectCause cause)
     {
-        print("disconected from server for reason" + cause.ToString());
+        Debug.Log("disconected from server for reason" + cause.ToString());
     }
 
 }

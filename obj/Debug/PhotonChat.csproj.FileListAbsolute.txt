@@ -210,3 +210,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonChat.csproj.CoreCompileInputs.cache
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonChat.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonChat.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonChat.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll

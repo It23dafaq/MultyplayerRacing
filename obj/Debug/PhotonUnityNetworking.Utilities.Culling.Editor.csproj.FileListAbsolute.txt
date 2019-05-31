@@ -221,3 +221,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Edit
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll

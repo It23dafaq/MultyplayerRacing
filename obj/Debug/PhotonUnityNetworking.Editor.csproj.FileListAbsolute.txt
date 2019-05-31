@@ -218,3 +218,5 @@ D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Editor.csproj.CoreComp
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Editor.csproj.CopyComplete
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Editor.dll
 D:\UnityLastV\MultiRacing\obj\Debug\PhotonUnityNetworking.Editor.pdb
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\UnityLastV\MultiRacing\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
