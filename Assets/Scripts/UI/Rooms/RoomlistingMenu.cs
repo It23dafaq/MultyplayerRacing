@@ -21,6 +21,9 @@ public class RoomlistingMenu : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         _roomCanvases.CurrentRooms.Show();
+        _content.DestroyChildren();
+        _list.Clear();
+        
     }
 
     public override void OnRoomListUpdate(List<RoomInfo> roomList)
@@ -30,6 +33,7 @@ public class RoomlistingMenu : MonoBehaviourPunCallbacks
             if (info.RemovedFromList)
             {
                 int index = _list.FindIndex(x => x.roomiNFO.Name == info.Name);
+                //nothing found
                 if(index != -1)
                 {
                     Destroy(_list[index].gameObject);

@@ -180,9 +180,12 @@
     <Compile Include="Assets\Scripts\UI\Rooms\CurrentRoom.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\PlayerListing.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\PlayerListingsMenu.cs" />
+    <Compile Include="Assets\Scripts\UI\Rooms\RandomCustomPropertyGenerator.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\RoomCanvases.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\Roomlisting.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\RoomlistingMenu.cs" />
+    <Compile Include="Assets\Scripts\Utilities\ExtTransforms.cs" />
+    <Compile Include="Assets\Scripts\Utilities\LeaveRoomMenu.cs" />
     <Compile Include="Assets\TestConnect.cs" />
     <None Include="Assets\Photon\PhotonUnityNetworking\link.xml" />
     <None Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Kenney Assets\Copyrights.txt" />
