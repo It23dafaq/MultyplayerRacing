@@ -10,6 +10,8 @@ public class PlayerListing : MonoBehaviour
    
         [SerializeField]
         private Text _text;
+
+    public bool playerReady = false;
     
 
     public Player Player { get; private set; }
