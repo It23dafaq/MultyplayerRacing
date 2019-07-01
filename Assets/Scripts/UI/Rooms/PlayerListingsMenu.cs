@@ -103,7 +103,7 @@ public class PlayerListingsMenu : MonoBehaviourPunCallbacks
     }
     public void OnClick_StartGame()
     {
-        if (PhotonNetwork.IsMasterClient)
+       /* if (PhotonNetwork.IsMasterClient)
         {   
             for(int i=0 ; i < _list.Count;i++)
             {
@@ -114,11 +114,11 @@ public class PlayerListingsMenu : MonoBehaviourPunCallbacks
                     
                 }
             }
-
+            */
             PhotonNetwork.CurrentRoom.IsOpen = false;
             PhotonNetwork.CurrentRoom.IsVisible = false;
             PhotonNetwork.LoadLevel(1);
-        }
+        //}
     }
     public void OnClick_Ready()
     {
