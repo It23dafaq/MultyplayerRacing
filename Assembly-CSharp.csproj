@@ -182,6 +182,7 @@
     <Compile Include="Assets\Scripts\Managers\GameSettings.cs" />
     <Compile Include="Assets\Scripts\Managers\MasterManager.cs" />
     <Compile Include="Assets\Scripts\Managers\ScriptableObjectSingleton.cs" />
+    <Compile Include="Assets\Scripts\Managers\SingleUseScript\InstaciatePlayer.cs" />
     <Compile Include="Assets\Scripts\Managers\SingleUseScript\RaiseEventsExample.cs" />
     <Compile Include="Assets\Scripts\SingletonReference.cs" />
     <Compile Include="Assets\Scripts\UI\Rooms\CreateOrJoinRooms.cs" />
