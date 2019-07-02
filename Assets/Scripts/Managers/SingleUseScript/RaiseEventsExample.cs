@@ -47,6 +47,7 @@ public class RaiseEventsExample : MonoBehaviourPun
             float r = (float)datas[0];
             float g = (float)datas[1];
                 float b = (float)datas[2];
+            Debug.Log("im here");
             _spriterender.color = new Color(r, g, b, 1f);
         }
     }
