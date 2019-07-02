@@ -180,8 +180,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\Managers\GameSettings.cs" />
-    <Compile Include="Assets\Scripts\Managers\MasterManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\MasterManager\MasterManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\MasterManager\NetworkPrefab.cs" />
     <Compile Include="Assets\Scripts\Managers\ScriptableObjectSingleton.cs" />
+    <Compile Include="Assets\Scripts\Managers\SingleUseScript\InstaciateExample.cs" />
     <Compile Include="Assets\Scripts\Managers\SingleUseScript\InstaciatePlayer.cs" />
     <Compile Include="Assets\Scripts\Managers\SingleUseScript\RaiseEventsExample.cs" />
     <Compile Include="Assets\Scripts\SingletonReference.cs" />

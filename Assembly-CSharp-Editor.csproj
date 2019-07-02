@@ -66,6 +66,7 @@
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\BezierCurveInspector.cs" />
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\BezierSplineInspector.cs" />
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\LineInspector.cs" />
+    <Compile Include="Assets\Scripts\Editor\ResourcesPathBuilder.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/UnityLastV/MultiRacing/MultyplayerRacing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
