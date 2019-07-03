@@ -22,7 +22,9 @@ public class MasterManager : ScriptableObjectSingleton<MasterManager>
             {
                 if (networkprefab._path != string.Empty)
                 {
-                    GameObject resaults = PhotonNetwork.Instantiate(networkprefab._path, position, rotesion);
+                   
+                    GameObject resaults = PhotonNetwork.Instantiate(networkprefab._path, position, rotesion,0);
+                    
                     return resaults;
                 }
                 else
