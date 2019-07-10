@@ -58,6 +58,7 @@ public class InstaciateExample : MonoBehaviourPun
             GameObject player = (GameObject)Instantiate(_prefab, (Vector3)data[0], (Quaternion)data[1]);
             PhotonView photonView = player.GetComponent<PhotonView>();
             photonView.ViewID = (int)data[2];
+           // player.transform.position =new Vector3(Random.Range(10, 200), Random.Range(10, 200), Random.Range(10, 200));
         }
     }
     private void OnEnable()

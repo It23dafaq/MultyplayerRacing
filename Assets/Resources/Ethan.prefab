@@ -2312,8 +2312,6 @@ GameObject:
   m_Component:
   - component: {fileID: 686883484143691651}
   - component: {fileID: 6510458126146140452}
-  - component: {fileID: 3952574067362934731}
-  - component: {fileID: 2702786778024103948}
   m_Layer: 0
   m_Name: Ethan
   m_TagString: Untagged
@@ -2358,39 +2356,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3952574067362934731
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7287015320337760749}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4fde14656bc40455ba65844c093b79a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CarPrefabs: []
-  MaximumSpeed: 20
-  Drag: 5
---- !u!114 &2702786778024103948
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7287015320337760749}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 541a76f9c03874323b5154b14ac00427, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spline: {fileID: 0}
-  Speed: 0
-  lookForward: 0
-  reverse: 0
-  currentDistance: 0
-  currentClampedDistance: 0
 --- !u!1 &7485143765410091608
 GameObject:
   m_ObjectHideFlags: 0
